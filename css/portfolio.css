@@ -2,11 +2,6 @@
     background: var(--second-bg-color);
 }
 
-h2 {
-    display: flex;
-    text-align: center;
-}
-
 .portfolio h2 {
     margin-bottom: 4rem;
 }
